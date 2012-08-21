@@ -15,7 +15,7 @@ https://github.com/skeeto/october-chess-engine/tree/hotswap-demo
 1. Install ant if you dont have it.
 2. Download hotswap.jar from http://code.google.com/p/hotswap.
 3. Add hotswap.jar to /home/user/.ant/lib/ or ANT_HOME/lib or use -lib hotswap.jar when running ant (put the file in the same folder as the ant script).
-4. run: ant run-hotswap #(in the same folder as the build.xml file)
+4. run(in the same folder as the build.xml file): ant run-hotswap
 5. Your application should be running now.
 6. Make changes to the class and run:
 7. ant hotswap
